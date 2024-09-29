@@ -1,2 +1,3 @@
 # gym-website
-Gym website developed on HTML AND CSS
+The gym website was developed on HTML AND CSS
+Author -- Parvez Alam
